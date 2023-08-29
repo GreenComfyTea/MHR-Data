@@ -1,6 +1,6 @@
 **Key** | **ID** | **Name**
 ------- | --------- | --------
-`Pl_KitchenSkill_None` |  0 | ` `
+`Pl_KitchenSkill_None` |  0 | `#Rejected# KitchenSkill_None_Name`
 `Pl_KitchenSkill_000`  |  1 | `Dango Polisher`
 `Pl_KitchenSkill_001`  |  2 | `Dango Rider`
 `Pl_KitchenSkill_002`  |  3 | `Dango Adrenaline`
