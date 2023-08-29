@@ -57,5 +57,4 @@
 `Pl_KitchenSkill_053`  | 54 | `Dango Shifter`
 `Pl_KitchenSkill_054`  | 55 | `Dango Connector`
 `Pl_KitchenSkill_055`  | 56 | `Super Recovery Dango`
-`Pl_KitchenSkill_056`  | 57 | ` `
 `Max`                  | 57 | ` `
