@@ -1,5 +1,5 @@
 **Key** | **ID** | **Name**
-------- | --------- | --------
+------- | ------ | --------
 `Pl_EquipSkill_None` |   0 | ` `
 `Pl_EquipSkill_000`  |   1 | `Attack Boost`
 `Pl_EquipSkill_001`  |   2 | `Agitator`
