@@ -1,3 +1,5 @@
+**Type Name:** `snow.data.DataDef.DangoId`
+
 **Key**                       |    **ID** | **Name**                                                       | **Description**
  ---------------------------- | --------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------
 `Dango_000`                   |         0 | **Sweetheart**                                                 | `A dango with a subtle touch of sugary sweetness! Take a bite and relax!`
