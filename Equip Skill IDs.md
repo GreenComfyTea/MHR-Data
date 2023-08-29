@@ -148,7 +148,7 @@
 `Pl_EquipSkill_233`  | 145 | `Strife`
 `Pl_EquipSkill_234`  | 146 | `Shock Absorber`
 `Pl_EquipSkill_235`  | 147 | `Inspiration`
-`Pl_EquipSkill_236`  | 148 | ``
-`PlEquipSkillId_Max` | 148 | ``
-`Max`  				 | 148 | ``
-`Error`  			 | 149 | ``
+`Pl_EquipSkill_236`  | 148 | ` `
+`PlEquipSkillId_Max` | 148 | ` `
+`Max`  				 | 148 | ` `
+`Error`  			 | 149 | ` `
