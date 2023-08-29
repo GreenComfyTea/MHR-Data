@@ -1,7 +1,7 @@
 **Key**                       |    **ID** | **Name**                                                       | **Description**
- ---------------------------- | --------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------
-`I_Unclassified_Max`          |  67108865 | `Throwing Kunai`                                               | A standard throwing kunai. Flies straight and true. Allows for precise aiming.
+----------------------------- | --------: | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------
 `I_Unclassified_None`         |  67108864 |                                                                | 
+`I_Unclassified_Max`          |  67108865 | `Throwing Kunai`                                               | A standard throwing kunai. Flies straight and true. Allows for precise aiming.
 `I_Normal_0000`               |  68157440 | `Throwing Kunai`                                               | A standard throwing kunai. Flies straight and true. Allows for precise aiming.
 `I_Normal_0001`               |  68157441 | `<COLOR FF0000>#Rejected#</COLOR> I_0001_Name`                 | <COLOR FF0000>#Rejected#</COLOR> I_0001_Explain
 `I_Normal_0002`               |  68157442 | `Barrel Bomb`                                                  | A small time bomb.
