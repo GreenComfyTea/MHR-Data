@@ -1,3 +1,5 @@
+**Type Name:** `snow.data.DataDef.HornConcertId`
+
 **Key**                       |    **ID** | **Name**                                                       | **Description**
  ---------------------------- | --------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------
 `Concert_000`                 |         0 | **Self-improvement**                                           | `Temporarily boosts movement speed and prevents your attacks from being deflected.`
