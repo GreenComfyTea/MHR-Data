@@ -1,5 +1,5 @@
 **Key** | **ID** | **Name**
-------- | --------- | --------
+------- | ------ | --------
 `HyakuryuSkill_None` |   0 | `<COLOR FF0000>#Rejected#</COLOR> HyakuryuSkill_None_Name`
 `HyakuryuSkill_000`  |   1 | `Attack Boost I`
 `HyakuryuSkill_001`  |   2 | `Attack Boost II`
